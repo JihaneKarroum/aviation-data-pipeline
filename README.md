@@ -146,8 +146,7 @@ This separation reflects real-world data engineering workflows where data produc
 
 Generated visual outputs are available in the `/visualization` folder:
 
-- `plots.png`: velocity distribution and altitude correlation  
-- `extra_plots.png`: flight phase distribution  
+- `plots.png`: velocity distribution, altitude correlation and flight phase distribution  
 - `toulouse_flights_map.html`: interactive map of flights near Toulouse  
   You can open the HTML file in a browser to explore the interactive map.
 
